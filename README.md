@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on [LearnCS](https://github.com/RifaOrin/LearnCS-Frontend.git)
 
-- 🌱 Currently learning **ML**
 
 - 🤝 I’m open to collaborate on **interesting projects as a developer.**
 
