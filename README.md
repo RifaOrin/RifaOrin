@@ -7,10 +7,10 @@
 <h3 align="center">A passionate Front-End React developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently working on [DocFinder](https://github.com/RifaOrin/DocFinder)
 
 
-- 🤝 I’m open to collaborate on **interesting projects as a developer.**
+
+🤝 I’m open to collaborate on **interesting projects as a developer.**
 
 
 <h3 align="left">Connect with me:</h3>
