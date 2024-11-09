@@ -10,7 +10,7 @@
 
 
 
-🤝 I’m open to collaborate on **interesting and challenging projects as a developer.**
+🤝 I’m open to collaborate on **interesting projects as a developer.**
 
 
 <h3 align="left">Connect with me:</h3>
